@@ -1,10 +1,10 @@
-docker-symfony
+Symfony 3.1.7 + Materializecss + Docker-compose
 ==============
 
 [![Build Status](https://secure.travis-ci.org/eko/docker-symfony.png?branch=master)](http://travis-ci.org/eko/docker-symfony)
 
 
-Just a little Docker POC in order to have a complete stack for running Symfony into Docker containers using docker-compose tool.
+Docker-compose file based on Vincent Composieux's https://github.com/eko/docker-symfony (+ PHP7 by default)
 
 # Installation
 
