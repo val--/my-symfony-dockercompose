@@ -4,7 +4,8 @@ Symfony 3.1.7 + Materializecss + Docker-compose
 [![Build Status](https://secure.travis-ci.org/eko/docker-symfony.png?branch=master)](http://travis-ci.org/eko/docker-symfony)
 
 
-Docker-compose file based on Vincent Composieux's https://github.com/eko/docker-symfony (+ PHP7 by default)
+Docker-compose file based on Vincent Composieux's https://github.com/eko/docker-symfony (+ PHP7 by default).
+MaterializeCSS "starter theme" is enabled ( http://materializecss.com/templates/starter-template/preview.html )
 
 # Installation
 
